@@ -139,3 +139,4 @@
 /etc/apache/sites-available/000-default.conf
 /etc/nginx/sites-enabled/000-default.conf
 /etc/nginx/sites-available/000-default.conf
+/.dockerenv
