@@ -848,7 +848,6 @@ __
 2c_return
 2d
 2db
-%2e%2e//google.com
 %2e%2e;test
 2-easy-ways
 2enetworx
