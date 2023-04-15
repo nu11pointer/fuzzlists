@@ -1,0 +1,180 @@
+0:0
+00000000:00000000
+1:1
+1111:1111
+1234:1234
+4444:4444
+aaAdmin:pwAdmin
+aadbo:pwddbo
+aaPower:pwPower
+aaUser:pwUser
+adm:adm
+admin:0000
+Admin:00000000
+admin:1111
+admin:1234
+admin:abc123
+admin:!admin
+admin:admin
+Admin:admin
+admin:avocent
+admin:bintec
+admin:blank
+Admin:blank
+admin:default
+admin:fadmin
+admin:funkwerk
+Administrator:1
+Administrator 1:Admin1
+Administrator 2:Admin2
+Administrator 5:Admin5
+Administrator:admin
+administrator:administrator
+Administrator:Administrator
+administrator:blank
+Administrator:deltav
+Administrator:Gateway
+administrator:ml1100
+administrator:ml1400
+Administrator:navigator
+Administrator:Password
+administrator:superuser
+Administrator:Wonderware
+admin:loytec4u
+admin:pass
+admin:PASS
+admin:password
+admin:private
+admin@root:charleM!800
+admin:switch
+admin:system
+admin:tracerlab
+admin:wago
+admin:westermo
+Advanced:advanced
+advantech:admin
+anonymous:anonymous
+anonymous:blank
+ArgusAdmin:masterkey
+argus:argus
+AUT_CSE:cQdd9debez
+AUTCSE:RybQRceeSd
+carel:fcarel
+CENTUM:CENTUM
+ctuser:4$apps
+default:1234
+default:default
+def:trade
+DMUser:Data&Pass
+Echelon:echeloncorp
+ecoV:ecopass
+eignet:inp100
+Engineer:400
+exec:default
+fdrusers:sresurdf
+ftp_boot:ftp_boot
+ftpuser:ftpuser
+ftpuser:password
+guest:fguest
+guest:guest
+Guest:guest
+guest:guest, admin:admin, root:root
+guest:user
+Hardcoded password: Basisk:Basisk
+httpadmin:fhttpadmin
+ilon:ilon
+Installer:sma
+Level 1: 1024
+level 2: 4321
+level 3: 1234
+Liebert:Liebert
+loader:fwdownload
+LOI:1000
+maint:default
+manager:friend
+manufacturer:1234
+MELSEC:MELSEC
+MyTurbine:m442+SRt
+naztec:naztec
+NETLink PRO PoE:admin
+nic2212:poiuypoiuy
+nimrohs2212:qwertyqwerty
+nip2212:fcsdfcsd
+noe77111_v500:RcSyyebczS
+ntpupdate:ntpupdate
+operator:operator
+oper:default
+oper:oper
+pcfactory:pcfactory
+PPPSERVER:ppps
+ppps:ppps
+PVRemote:PD35010
+pvserver:pvwr
+qbf77101:hexakisoctahedron
+QNUDECPU:QNUDECPU
+root:00000000
+Root:00000000
+root:840sw
+root:admin
+root:#bigguy
+root:dbps
+root:deif7800
+root:froot
+root:linux
+root:rkwjsdusrnth
+root:root
+root:wago
+root:zP2wxY4uE
+sa:42Emerson42Eme
+sconsole:12345
+service:1234
+﻿service:ABB800xA
+Service Tools:SERVICETOOL
+siemens:siemens
+su:ko2003wa
+super:super
+superview:superview
+Supervisor:Admin
+SysAdmin:honey
+sysdiag:factorycast@schneider
+SYSTEM:666666
+target:RcQbRbzRycFTP
+test:testingpw
+tracerlab:tracerlab
+tridium:niagara
+ubnt:ubnt
+user:0000
+User:00000000
+User 01:100
+User 05:200
+User 09:300
+user:12345
+User 1:master
+User1:Password1
+User 1:User01
+User 2:engineer
+User2:Password2
+User 3:operator
+User3:Password3
+User 90:User90
+username:password
+user:public
+user:system
+user:user
+User:User
+USER:USER
+user:user00
+USER:USERUSER
+USHA:admin
+vesstore:vesstore
+viewer:12345
+webguest:1
+webserver:webpages
+winccd:winccpass
+wincce:winccpass
+wl_test:wl_test
+wsupgrade:wsupgrade
+wwAdmin:wwAdmin
+wwdbo:pwddbo
+wwPower:wwPower
+wwUser:wwUser
