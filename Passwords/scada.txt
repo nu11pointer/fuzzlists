@@ -59,6 +59,7 @@ ArgusAdmin:masterkey
 argus:argus
 AUT_CSE:cQdd9debez
 AUTCSE:RybQRceeSd
+Basisk:Basisk
 carel:fcarel
 CENTUM:CENTUM
 ctuser:4$apps
@@ -78,9 +79,7 @@ ftpuser:password
 guest:fguest
 guest:guest
 Guest:guest
-guest:guest, admin:admin, root:root
 guest:user
-Hardcoded password: Basisk:Basisk
 httpadmin:fhttpadmin
 ilon:ilon
 Installer:sma
@@ -128,7 +127,7 @@ root:zP2wxY4uE
 sa:42Emerson42Eme
 sconsole:12345
 service:1234
-﻿service:ABB800xA
+service:ABB800xA
 Service Tools:SERVICETOOL
 siemens:siemens
 su:ko2003wa
