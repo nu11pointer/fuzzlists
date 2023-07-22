@@ -15,7 +15,6 @@ kali
 maintenance
 marketing
 mint
-msfadmin
 mysql
 nas
 oracle
