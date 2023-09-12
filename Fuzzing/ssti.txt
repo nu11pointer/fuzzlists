@@ -4,6 +4,7 @@ ${3*3}
 [[${42*42}]]
 ${42*42}
 ${6*6}
+${= 7*7}
 ${{7*7}}
 ${7*7}
 ${donotexists|42*42}
@@ -87,12 +88,26 @@ ${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().ex
 #{ 7 * 7 }
 #{7*7}
 *{7*7}
+<# 7*7 #>
+<% 7*7 %>
 <%= 7 * 7 %>
 <%= 7*7 %>
+<?=7*7?>
+@(7*7)
+[% 7*7 %]
+[%= 7*7 %]
+[- 7*7 -]
+[=7*7]
+[[ 7*7 ]]
 [7*7]
 {{ 7-7 }}
+{{# 7*7 }}
+{{% 7*7 %}}
+{{<% 7*7 %>}}
+{{= 7*7}}
 {{7*'7'}}
 {{7*7}}
+{7*7}
 {{7*7}}${7*7}<%= 7*7 %>${{7*7}}#{7*7}${{<%[%'"}}%\
 <a data-mv-if='1 or self.alert(1)'>test</a>
 {{'a'.getClass().forName('javax.script.ScriptEngineManager').newInstance().getEngineByName('JavaScript').eval(\"new java.lang.String('xxx')\")}}
