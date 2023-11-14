@@ -5,7 +5,9 @@
 %2e
 #file.html
 /
+%2F
 \
+%5C
 ...
 .jpg
 %00.png%00

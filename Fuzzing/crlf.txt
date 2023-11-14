@@ -17,5 +17,11 @@
 %u000aSet-Cookie:crlf
 %E5%98%8D%E5%98%8ASet-Cookie:crlf
 \rSet-Cookie:crlf
+\\rSet-Cookie:crlf
+%5CrSet-Cookie:crlf
 \nSet-Cookie:crlf
+\\nSet-Cookie:crlf
+%5CnSet-Cookie:crlf
 \r\nSet-Cookie:crlf
+\\r\\nSet-Cookie:crlf
+%5Cr%5CnSet-Cookie:crlf
