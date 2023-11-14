@@ -47,6 +47,8 @@ monitor
 mysql
 naadmin
 nas
+nsroot
+nsrecover
 operator
 oracle
 ovwebusr
