@@ -3192,6 +3192,7 @@ _i
 _i3
 _icons
 _iframe
+_ignition/health-check
 _iis_customdocs
 _image
 _images
