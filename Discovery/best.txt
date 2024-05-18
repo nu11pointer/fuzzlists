@@ -2921,8 +2921,6 @@
 99pay
 9cookies
 :
-?wadl
-?wsdl
 @
 @download@
 _
@@ -5330,6 +5328,7 @@ AddPost
 addpost_newpoll.php
 addproduct
 addreply
+addRequest
 address
 address.php
 address_book
@@ -7983,6 +7982,7 @@ api/identity
 api/identity/envelope
 api/images
 api/index.html
+api/index.php/v1/config/application?public=true
 api/index/life/lycx
 api/info.json
 api/init
@@ -8883,6 +8883,7 @@ aprcalc
 aprelium
 april
 aprovacao
+Aprovisionamentos
 aprox
 aps
 apsis
@@ -9505,6 +9506,8 @@ audit
 audit.config
 audit.log
 auditevents
+auditevents/Module_Info.aspx
+auditevents/ModulesManagement.aspx
 auditevents.json
 auditfiles
 auditing
@@ -9526,6 +9529,7 @@ aurigma
 aurora
 aurrera
 aus
+Ausencias
 ausgetreten
 ausl
 ausland
@@ -11020,7 +11024,6 @@ bin/cgimail.exe
 bin/cgitest.exe
 bin/Cgitest.exe
 bin/cgiwrap
-bin/cgiwrap/%3Cfont%20color=red%3E
 bin/cgiwrap/~@USERS
 bin/cgiwrap/~JUNK(5)
 bin/cgiwrap/~root
@@ -13185,7 +13188,6 @@ catid
 catimages
 catimg
 catinfo
-catinfo?<b>\
 CATKIN_IGNORE
 catman.aspx
 catmgr
@@ -13823,7 +13825,6 @@ cgi-914/cgimail.exe
 cgi-914/cgitest.exe
 cgi-914/Cgitest.exe
 cgi-914/cgiwrap
-cgi-914/cgiwrap/%3Cfont%20color=red%3E
 cgi-914/cgiwrap/~@USERS
 cgi-914/cgiwrap/~JUNK(5)
 cgi-914/cgiwrap/~root
@@ -14462,7 +14463,6 @@ cgi-915/cgimail.exe
 cgi-915/cgitest.exe
 cgi-915/Cgitest.exe
 cgi-915/cgiwrap
-cgi-915/cgiwrap/%3Cfont%20color=red%3E
 cgi-915/cgiwrap/~@USERS
 cgi-915/cgiwrap/~JUNK(5)
 cgi-915/cgiwrap/~root
@@ -15109,7 +15109,6 @@ cgi-bin-sdb/cgimail.exe
 cgi-bin-sdb/cgitest.exe
 cgi-bin-sdb/Cgitest.exe
 cgi-bin-sdb/cgiwrap
-cgi-bin-sdb/cgiwrap/%3Cfont%20color=red%3E
 cgi-bin-sdb/cgiwrap/~@USERS
 cgi-bin-sdb/cgiwrap/~JUNK(5)
 cgi-bin-sdb/cgiwrap/~root
@@ -15763,7 +15762,6 @@ cgi-bin/cgitest
 cgi-bin/cgitest.exe
 cgi-bin/Cgitest.exe
 cgi-bin/cgiwrap
-cgi-bin/cgiwrap/%3Cfont%20color=red%3E
 cgi-bin/cgiwrap/~@USERS
 cgi-bin/cgiwrap/~JUNK(5)
 cgi-bin/cgiwrap/~root
@@ -15850,6 +15848,7 @@ cgi-bin/dig.cgi
 cgi-bin/directorypro.cgi
 cgi-bin/disorder
 cgi-bin/displayTC.pl
+cgi-bin/dmt/reset.cgi?db_prefix=%26id%26
 cgi-bin/dnewsweb
 cgi-bin/domainredirect.cgi
 cgi-bin/donothing
@@ -16172,6 +16171,7 @@ cgi-bin/redir.exe
 cgi-bin/redirect
 cgi-bin/register.cgi
 cgi-bin/replicator/webpage.cgi
+cgi-bin/reset.cgi?db_prefix=%26id%26
 cgi-bin/responder.cgi
 cgi-bin/retrieve_password.pl
 cgi-bin/rguest.exe
@@ -16528,7 +16528,6 @@ cgi-exe/cgimail.exe
 cgi-exe/cgitest.exe
 cgi-exe/Cgitest.exe
 cgi-exe/cgiwrap
-cgi-exe/cgiwrap/%3Cfont%20color=red%3E
 cgi-exe/cgiwrap/~@USERS
 cgi-exe/cgiwrap/~JUNK(5)
 cgi-exe/cgiwrap/~root
@@ -17171,7 +17170,6 @@ cgi-home/cgimail.exe
 cgi-home/cgitest.exe
 cgi-home/Cgitest.exe
 cgi-home/cgiwrap
-cgi-home/cgiwrap/%3Cfont%20color=red%3E
 cgi-home/cgiwrap/~@USERS
 cgi-home/cgiwrap/~JUNK(5)
 cgi-home/cgiwrap/~root
@@ -17819,7 +17817,6 @@ cgi-local/cgimail.exe
 cgi-local/cgitest.exe
 cgi-local/Cgitest.exe
 cgi-local/cgiwrap
-cgi-local/cgiwrap/%3Cfont%20color=red%3E
 cgi-local/cgiwrap/~@USERS
 cgi-local/cgiwrap/~JUNK(5)
 cgi-local/cgiwrap/~root
@@ -18461,7 +18458,6 @@ cgi-mod/cgimail.exe
 cgi-mod/cgitest.exe
 cgi-mod/Cgitest.exe
 cgi-mod/cgiwrap
-cgi-mod/cgiwrap/%3Cfont%20color=red%3E
 cgi-mod/cgiwrap/~@USERS
 cgi-mod/cgiwrap/~JUNK(5)
 cgi-mod/cgiwrap/~root
@@ -19106,7 +19102,6 @@ cgi-perl/cgimail.exe
 cgi-perl/cgitest.exe
 cgi-perl/Cgitest.exe
 cgi-perl/cgiwrap
-cgi-perl/cgiwrap/%3Cfont%20color=red%3E
 cgi-perl/cgiwrap/~@USERS
 cgi-perl/cgiwrap/~JUNK(5)
 cgi-perl/cgiwrap/~root
@@ -19764,7 +19759,6 @@ cgi-sys/cgimail.exe
 cgi-sys/cgitest.exe
 cgi-sys/Cgitest.exe
 cgi-sys/cgiwrap
-cgi-sys/cgiwrap/%3Cfont%20color=red%3E
 cgi-sys/cgiwrap/~@USERS
 cgi-sys/cgiwrap/~JUNK(5)
 cgi-sys/cgiwrap/~root
@@ -20408,7 +20402,6 @@ cgi-win/cgimail.exe
 cgi-win/cgitest.exe
 cgi-win/Cgitest.exe
 cgi-win/cgiwrap
-cgi-win/cgiwrap/%3Cfont%20color=red%3E
 cgi-win/cgiwrap/~@USERS
 cgi-win/cgiwrap/~JUNK(5)
 cgi-win/cgiwrap/~root
@@ -21052,7 +21045,6 @@ cgi.cgi/cgimail.exe
 cgi.cgi/cgitest.exe
 cgi.cgi/Cgitest.exe
 cgi.cgi/cgiwrap
-cgi.cgi/cgiwrap/%3Cfont%20color=red%3E
 cgi.cgi/cgiwrap/~@USERS
 cgi.cgi/cgiwrap/~JUNK(5)
 cgi.cgi/cgiwrap/~root
@@ -21709,7 +21701,6 @@ cgi/cgitest
 cgi/cgitest.exe
 cgi/Cgitest.exe
 cgi/cgiwrap
-cgi/cgiwrap/%3Cfont%20color=red%3E
 cgi/cgiwrap/~@USERS
 cgi/cgiwrap/~JUNK(5)
 cgi/cgiwrap/~root
@@ -22417,7 +22408,6 @@ cgibin/cgimail.exe
 cgibin/cgitest.exe
 cgibin/Cgitest.exe
 cgibin/cgiwrap
-cgibin/cgiwrap/%3Cfont%20color=red%3E
 cgibin/cgiwrap/~@USERS
 cgibin/cgiwrap/~JUNK(5)
 cgibin/cgiwrap/~root
@@ -23062,7 +23052,6 @@ cgis/cgimail.exe
 cgis/cgitest.exe
 cgis/Cgitest.exe
 cgis/cgiwrap
-cgis/cgiwrap/%3Cfont%20color=red%3E
 cgis/cgiwrap/~@USERS
 cgis/cgiwrap/~JUNK(5)
 cgis/cgiwrap/~root
@@ -25658,6 +25647,7 @@ configs/conf_bdd.ini
 configs/conf_zepass.ini
 Configs/Current/authServerSettings.config
 ConfigServlet
+Configuracao
 configuracion
 configuration
 configuration.inc.php~
@@ -26032,6 +26022,8 @@ controllers/VideoController.php
 controllers/ViewController.php
 ControllerServlet
 controllo
+Controlo
+ControloTrafego
 controlpanel
 ControlPanel
 controlpanel.asp
@@ -26854,6 +26846,9 @@ customfilter
 customgallery
 customgroupicons
 customhandler
+customHandlers
+customHandlers/internalerror.aspx
+customHandlers/notfound.aspx
 customize
 customized
 customizereport.aspx
@@ -27965,6 +27960,7 @@ densite
 density
 dental
 dentists
+denunciante
 denver
 deny
 denynodepath
@@ -30579,6 +30575,47 @@ enterasys
 entercept
 entergal
 enterprise
+Enterprise
+Enterprise/Directory.aspx
+Enterprise/Home.aspx
+Enterprise/Login.aspx
+Enterprise/EntryCfgUser.aspx
+EnterpriseManager
+EnterpriseManager/Cfg_Authentication.aspx
+EnterpriseManager/Cfg_ControlPanel.aspx
+EnterpriseManager/Cfg_DelegationMotiveEdit.aspx
+EnterpriseManager/Cfg_FunctionalGroups.aspx
+EnterpriseManager/Cfg_GroupTypeInfo.aspx
+EnterpriseManager/Cfg_Import.aspx
+EnterpriseManager/Cfg_LocationTypeInfo.aspx
+EnterpriseManager/Cfg_Locations.aspx
+EnterpriseManager/Cfg_PrivilegeInfo.aspx
+EnterpriseManager/Cfg_Privileges.aspx
+EnterpriseManager/Cfg_RelationTypeInfo.aspx
+EnterpriseManager/Cfg_RelationTypes.aspx
+EnterpriseManager/Cfg_RoleInfo.aspx
+EnterpriseManager/Cfg_Roles.aspx
+EnterpriseManager/Cfg_Users.aspx
+EnterpriseManager/CfgAuthenticationEntry.aspx
+EnterpriseManager/CfgControlPanel.aspx
+EnterpriseManager/CfgCompany.aspx
+EnterpriseManager/CfgCompanyEdit.aspx
+EnterpriseManager/CfgDelegationMotives.aspx
+EnterpriseManager/CfgFunctionalGroups.aspx
+EnterpriseManager/CfgGlobalSettings.aspx
+EnterpriseManager/CfgGroupType.aspx
+EnterpriseManager/CfgImport.aspx
+EnterpriseManager/CfgLocale.aspx
+EnterpriseManager/CfgLocationEditEntry.aspx
+EnterpriseManager/CfgLocationTypeEntry.aspx
+EnterpriseManager/CfgLocationsEntry.aspx
+EnterpriseManager/CfgMenu.aspx
+EnterpriseManager/CfgPrivileges.aspx
+EnterpriseManager/CfgRelationType.aspx
+EnterpriseManager/CfgUsers.aspx
+EnterpriseManager/EntryCfgUserContainer.aspx
+EnterpriseManager/User_ChangePassword.aspx
+EnterpriseManager/User_Container.aspx
 enterprises
 entertainment
 Entertainment
@@ -32161,7 +32198,6 @@ fcgi-bin/cgimail.exe
 fcgi-bin/cgitest.exe
 fcgi-bin/Cgitest.exe
 fcgi-bin/cgiwrap
-fcgi-bin/cgiwrap/%3Cfont%20color=red%3E
 fcgi-bin/cgiwrap/~@USERS
 fcgi-bin/cgiwrap/~JUNK(5)
 fcgi-bin/cgiwrap/~root
@@ -33146,6 +33182,8 @@ finaid
 final
 finance
 finance.xls
+Financeira
+Financeiro
 finances
 finances.xls
 financial
@@ -33639,6 +33677,8 @@ form_type
 form_valiation
 form_wizard
 forma
+formacao
+Formacao
 formacion
 formadjust
 formail
@@ -36494,7 +36534,6 @@ htbin/cgimail.exe
 htbin/cgitest.exe
 htbin/Cgitest.exe
 htbin/cgiwrap
-htbin/cgiwrap/%3Cfont%20color=red%3E
 htbin/cgiwrap/~@USERS
 htbin/cgiwrap/~JUNK(5)
 htbin/cgiwrap/~root
@@ -37177,6 +37216,7 @@ human-resources
 human_resources
 humanities
 humanlinks
+humanportalconfigs/get.json
 humanres
 humanresources
 humans
@@ -38334,7 +38374,6 @@ images.old
 images.sql
 images.zip
 images/.git/config
-images?pattern=/etc/*&sort=name
 images/algae
 images/algae/add-button.png
 images/algae/button-delete.png
@@ -47040,7 +47079,6 @@ mpcgi/cgimail.exe
 mpcgi/cgitest.exe
 mpcgi/Cgitest.exe
 mpcgi/cgiwrap
-mpcgi/cgiwrap/%3Cfont%20color=red%3E
 mpcgi/cgiwrap/~@USERS
 mpcgi/cgiwrap/~JUNK(5)
 mpcgi/cgiwrap/~root
@@ -50958,7 +50996,6 @@ ows-bin/cgimail.exe
 ows-bin/cgitest.exe
 ows-bin/Cgitest.exe
 ows-bin/cgiwrap
-ows-bin/cgiwrap/%3Cfont%20color=red%3E
 ows-bin/cgiwrap/~@USERS
 ows-bin/cgiwrap/~JUNK(5)
 ows-bin/cgiwrap/~root
@@ -56562,6 +56599,7 @@ remos_downloads
 remository
 remote
 remote.php
+remote.php/dav
 remote/fgt_lang
 remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 remote/login
@@ -57530,6 +57568,7 @@ richard
 richmond
 richpub
 richtextportlet/info
+RichWidgets
 rick
 ricky
 ricoh
@@ -57964,6 +58003,7 @@ rvs
 rw
 rw_common
 rwb/version.html
+RWS
 rwscripts
 rwservlet
 rx
@@ -59604,7 +59644,6 @@ scgi-bin/cgimail.exe
 scgi-bin/cgitest.exe
 scgi-bin/Cgitest.exe
 scgi-bin/cgiwrap
-scgi-bin/cgiwrap/%3Cfont%20color=red%3E
 scgi-bin/cgiwrap/~@USERS
 scgi-bin/cgiwrap/~JUNK(5)
 scgi-bin/cgiwrap/~root
@@ -60252,6 +60291,7 @@ SCRIPT
 script-shed
 script-solution.de
 script-www
+script.js
 Script.PostDeployment.sql
 Script.PreDeployment.sql
 script.sql
@@ -60467,7 +60507,6 @@ scripts/CGImail.exe
 scripts/cgitest.exe
 scripts/Cgitest.exe
 scripts/cgiwrap
-scripts/cgiwrap/%3Cfont%20color=red%3E
 scripts/cgiwrap/~@USERS
 scripts/cgiwrap/~JUNK(5)
 scripts/cgiwrap/~root
@@ -61840,9 +61879,11 @@ servlet
 Servlet
 servlet/admin?category=server&method=listAll&Authorization=Digest+username%3D%22admin%22%2C+response%3D%22ae9f86d6beaa3f9ecb9a5b7e072a4138%22%2C+nonce%3D%222b089ba7985a883ab2eddcd3539a6c94%22%2C+realm%3D%22adminRealm%22%2C+uri%3D%22%2Fservlet%2Fadmin%22&
 servlet/AdminServlet
+servlet/AggreSpy
 servlet/allaire.jrun.ssi.SSIFilter
 servlet/aphtpassword
 servlet/BBoardServlet
+servlet/cgi
 servlet/com.ibm.as400ad.webfacing.runtime.httpcontroller.ControllerServlet
 servlet/com.ibm.servlet.engine.webapp.DefaultErrorReporter
 servlet/com.ibm.servlet.engine.webapp.InvokerServlet
@@ -61862,6 +61903,7 @@ servlet/custMsg
 servlet/DateServlet
 servlet/default
 servlet/DMSDump
+servlet/en
 servlet/ErrorReporter
 servlet/f60servlet
 servlet/FingerServlet
@@ -61874,6 +61916,7 @@ servlet/HitCount
 servlet/hitcount
 servlet/IsCacheWorking
 servlet/IsItWorking
+servlet/jsp
 servlet/MsgPage?action=test&msg=1
 servlet/oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 servlet/Oracle.xml.xsql.XSQLServlet/soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
@@ -61894,6 +61937,8 @@ servlet/org.apache.catalina.servlets.ManagerServlet
 servlet/org.apache.catalina.servlets.SnoopAllServlet
 servlet/org.apache.catalina.servlets.WebdavServlet
 servlet/org.apache.catalina.servlets.WebdavStatus/1
+servlet/perl
+servlet/php
 servlet/PrintServlet
 servlet/RedirectServlet
 servlet/RequestHeaderExample
@@ -61915,10 +61960,12 @@ servlet/snoopservlet
 servlet/Spy
 servlet/sq1cdsn
 servlet/sqlcdsn
+servlet/ssi
 servlet/sunexamples.BBoardServlet
 servlet/taskProc?taskId=shortURL&taskEnv=xml&taskContentType=xml&srcURL=https
 servlet/TheExpiringHTMLServlet
 servlet/ToJSPServlet
+servlet/uix
 servlet/ViewSrc
 servlet/webacc
 servlet/webpub
@@ -62915,14 +62962,20 @@ sitemap.xml.php
 sitemap1
 sitemap1.xml.gz
 sitemap2
+sitemap_0.xml
+sitemap_0.xml.gz
+sitemap_1.xml
 sitemap_1.xml.gz
+sitemap_2.xml
 sitemap_2.xml.gz
+sitemap_3.xml
 sitemap_3.xml.gz
 sitemap_4.xml.gz
 sitemap_5.xml.gz
 sitemap_gen
 sitemap_gen-1
 sitemap_index
+sitemap_index.xml
 sitemap_xml
 sitemapdotnet
 sitemapgen
@@ -69411,6 +69464,8 @@ userarea
 userassets
 userbars
 usercenter
+UserCheck
+UserCheck/PortalMain
 usercheckout
 usercomment
 usercontact
@@ -69615,7 +69670,6 @@ usr
 usr/extensions/get_calendar.inc.php
 usr/extensions/get_infochannel.inc.php
 usr/extensions/get_tree.inc.php
-usr/extensions/get_tree.inc.php?GLOBALS[\
 usrmgr
 usrs
 ust
@@ -69845,6 +69899,7 @@ v1/event
 v1/event-booking-list
 v1/event/permission
 v1/events
+v1/explorer
 v1/forget-password
 v1/geoip
 v1/get-refer-list
@@ -72055,7 +72110,6 @@ webcgi/cgimail.exe
 webcgi/cgitest.exe
 webcgi/Cgitest.exe
 webcgi/cgiwrap
-webcgi/cgiwrap/%3Cfont%20color=red%3E
 webcgi/cgiwrap/~@USERS
 webcgi/cgiwrap/~JUNK(5)
 webcgi/cgiwrap/~root
@@ -73105,6 +73159,8 @@ widerrufsrecht
 Widerrufsrecht
 widgeditor
 widget
+WidgetLibrary
+WidgetLibrary40
 widgets
 Widgets/Base/Footer.php
 Widgets/Base/widget.BifContainer.php
