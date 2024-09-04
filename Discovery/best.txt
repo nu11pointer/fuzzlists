@@ -844,6 +844,7 @@
 .mysql.txt
 .mysql_history
 .nakignore
+.namazurc
 .name
 .nano
 .nano/search_history
@@ -3069,6 +3070,7 @@ _connect.php
 _console
 _contact
 _content
+_content/BlazorApplicationInsights/BlazorApplicationInsights.lib.module.js
 _contentindex
 _control
 _controls
@@ -3158,6 +3160,7 @@ _fragment
 _framework/_bin/WebAssembly.Bindings.dll
 _framework/blazor.boot.json
 _framework/blazor.webassembly.js
+_framework/dotnet.js
 _framework/wasm/dotnet.wasm
 _friendly/core/data/_load.php
 _friendly/core/data/yaml.inc.php
@@ -6553,6 +6556,7 @@ administrator.aspx
 administrator.cfm
 administrator.cgi
 administrator.html
+administrator.jnlp
 administrator.js
 administrator.jsp
 administrator.php
@@ -8883,6 +8887,7 @@ apps2
 appserv
 appserv/main.php
 AppServer
+appsettings.json
 AppsLocalLogin
 AppsLogin
 appstrudl
@@ -13468,6 +13473,7 @@ certify
 certlog.nsf
 certprov
 certs
+certs/download.zip
 certserver
 certsrv
 certsrv.nsf
@@ -24317,6 +24323,7 @@ clever's
 clf
 cli
 clic
+CLIClientConfig.cfg
 click
 Click
 click-n-vote
@@ -27230,6 +27237,7 @@ database.mdb
 database.nsf
 database.php
 database.php~
+database.props
 database.rar
 database.sql
 database.sql.tar.gz
@@ -29240,6 +29248,7 @@ downloader
 downloader/cache.cfg
 downloader/connect.cfg
 downloadFile.php
+downloadfile
 downloadfiles
 downloading
 DownloadItems
@@ -29469,6 +29478,7 @@ dtffotodk
 dtffotono
 dtffotose
 dtlink
+dtlt/flr
 dtlt/home.html
 dtmp
 dtools
@@ -40093,6 +40103,7 @@ infopop
 infopulse
 inform
 informa
+Informacao
 informacio
 informacion
 informacje
@@ -41317,6 +41328,7 @@ jbook
 jboss
 jboss-net
 jboss-net/happyaxis.jsp
+jboss-service.xml
 jboss/server/all/deploy/project.ext
 jboss/server/all/log
 jboss/server/default/deploy/project.ext
@@ -47872,6 +47884,7 @@ mwp
 MWS/HandleSearch.html?searchTarget=test&B1=Submit
 mx
 mx-gb
+mx.log
 mx.php
 mx_
 mxbb
@@ -52061,6 +52074,7 @@ path_image
 path_permissions
 path_redirect
 Path_Script/createurl.php
+path.properties
 pathauto
 pathauto_extension
 pathauto_uncheck
@@ -67262,6 +67276,7 @@ totes
 toto
 tots
 TOU
+tou
 touch
 touch_icons
 touchtunes
@@ -73011,6 +73026,7 @@ WebSphereSamples/SingleSamples/Increment/increment.html
 WebSphereSamples/YourCo/main.html
 webspot
 websql
+websso/SAML2/SSO/vSphere.local
 webstar
 webstat
 webstat-ssl
