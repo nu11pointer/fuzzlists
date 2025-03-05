@@ -1443,6 +1443,7 @@
 .well-known/repute-template
 .well-known/resourcesync
 .well-known/security.txt
+.well-known/shopify/monorail/unstable/produce_batch
 .well-known/sshfp
 .well-known/stun-key
 .well-known/thread
@@ -13091,6 +13092,7 @@ carts
 cartwiz
 cartx/owa
 cas
+cas/login
 cas_register_invite
 cas_server
 casa
@@ -25675,6 +25677,7 @@ configuration
 configuration.inc.php~
 configuration.ini
 configuration.php
+configuration.php-dist
 configuration.php.bak
 configuration.php.dist
 configuration.php.old
@@ -35383,6 +35386,7 @@ groups.aspx
 groups.nsf
 groups.php.bak
 groups.sql
+groups/docs/-/group_members
 groupware
 groupware-crm
 grover
@@ -42133,6 +42137,7 @@ jsnippets
 jsnodeload
 json
 json-api
+json_data
 json_server
 jsonrpc_server
 jsonwrapper
@@ -46026,6 +46031,7 @@ misc/forum-icons.png
 misc/function.php3
 misc/grippie.png
 misc/help.png
+misc/index.jsp
 misc/jquery.ba-bbq.js
 misc/jquery.cookie.js
 misc/jquery.form.js
@@ -54704,6 +54710,7 @@ processlogin.php
 processor
 processors
 processus
+processwire
 Procfile
 Procfile.dev
 Procfile.offline
@@ -56659,6 +56666,9 @@ remoteblocks
 remotelyanywhere
 remotes
 remotetracer
+RemotEyeLiteServer/Authenticate
+RemotEyeLiteServer/ConnectToLicenseManager
+RemotEyeLiteServer/RetrieveServerSettings
 remoto
 removal
 removals
@@ -57447,6 +57457,7 @@ restaurant
 restaurante
 restaurantes
 restaurants
+resgui/start.html
 restituda
 restore
 restore.php
@@ -64831,6 +64842,7 @@ stylish
 styly
 su
 su_comments
+SU.axd
 suarez
 sub
 sub-login
@@ -65172,6 +65184,7 @@ swagger-ui
 swagger-ui.html
 swagger-ui.js
 swagger-ui.json
+swagger-ui/dist/
 swagger-ui/index.html
 swagger-ui/swagger-ui.js
 swagger-ui/swagger.json

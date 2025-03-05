@@ -43,6 +43,8 @@
 /var/log/apache2/error.log
 /var/log/apache/access_log
 /var/log/apache/access.log
+/var/log/nginx/access.log
+/var/log/nginx/error.log
 /var/log/auth.log
 /var/log/chttp.log
 /var/log/cups/error_log
